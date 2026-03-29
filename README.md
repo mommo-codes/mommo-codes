@@ -24,4 +24,4 @@ I'm a 23-year-old Computer Science student at Uppsala University (M.Sc.), curren
 - 🌐 Swedish · English · Urdu · Punjabi · German (basic)
 - 🚀 Co-founded a UF company in high school in collaboration with a local coffee roastery
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mommo-codes&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=mommo-codes&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
