@@ -15,7 +15,7 @@ Outside of work, I train regularly and I'm currently working toward completing a
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,rust,c,java,swift,react,vite,tailwind,postgres,redis,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,rust,c,java,swift,react,vite,tailwind,postgres,redis,docker,githubactions,go" />
 </p>
 
 ---
